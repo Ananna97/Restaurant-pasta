@@ -1,0 +1,3 @@
+In Command Prompt
+pushd C:\Users\dan_i\Desktop\Restaurant-pasta
+json-server --watch db.json

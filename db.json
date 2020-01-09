@@ -1,0 +1,24 @@
+{   
+  "team": [
+    {
+      "id": 1,
+      "name": "Gordon Ramsay",
+      "img": "https://cartoonvegas.com/wp-content/uploads/gordonramsay-by-tami1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jaime Oliver",
+      "img": "https://i.pinimg.com/originals/cd/d8/c0/cdd8c037f7cd31f50676f817d8b0aa32.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lucifer Morningstar",
+      "img": "https://66.media.tumblr.com/f01263acfab6840ec8cd2bc0c88e5670/tumblr_o2hzmfgnuZ1txyxg8o1_500.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Queen Elizabeth",
+      "img": "https://previews.123rf.com/images/nicoletaionescu/nicoletaionescu1804/nicoletaionescu180400054/100388623-editorial-caricature-of-queen-elizabeth-ii.jpg"
+    }
+  ]
+}
